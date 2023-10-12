@@ -29,9 +29,11 @@ Plot the accquired graph with respect to hours and scores using the scatter plot
 End the program.
 
 # Program :
+```
 Program to implement the linear regression using gradient descent.
 DEVELOPED BY : VAISHNAVI S
 REG NO : 212222230165
+```
 ```
 import numpy as np
 import matplotlib.pyplot as plt 
